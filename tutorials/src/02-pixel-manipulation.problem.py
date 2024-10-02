@@ -37,6 +37,7 @@ img = cv2.resize(img,(300,200))
 # TODO Print first row
 print(img[0,:])
 
+
 # TODO Print first column
 print(img[:,0])
 
